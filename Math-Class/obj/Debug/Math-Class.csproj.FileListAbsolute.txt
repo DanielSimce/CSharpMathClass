@@ -1,0 +1,16 @@
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Math-Class\Math-Class\bin\Debug\Math-Class.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Math-Class\Math-Class\bin\Debug\Math-Class.pdb
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Math-Class\Math-Class\obj\Debug\Math-Class.csprojResolveAssemblyReference.cache
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Math-Class\Math-Class\obj\Debug\Math-Class.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Math-Class\Math-Class\obj\Debug\Math-Class.pdb
+C:\Users\Daniel\source\repos\Math-Class\Math-Class\bin\Debug\Math-Class.exe
+C:\Users\Daniel\source\repos\Math-Class\Math-Class\bin\Debug\Math-Class.pdb
+C:\Users\Daniel\source\repos\Math-Class\Math-Class\obj\Debug\Math-Class.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Math-Class\Math-Class\obj\Debug\Math-Class.exe
+C:\Users\Daniel\source\repos\Math-Class\Math-Class\obj\Debug\Math-Class.pdb
+D:\Trening C#\Repos\Math-Class\Math-Class\bin\Debug\Math-Class.exe
+D:\Trening C#\Repos\Math-Class\Math-Class\bin\Debug\Math-Class.pdb
+D:\Trening C#\Repos\Math-Class\Math-Class\obj\Debug\Math-Class.csprojAssemblyReference.cache
+D:\Trening C#\Repos\Math-Class\Math-Class\obj\Debug\Math-Class.csproj.CoreCompileInputs.cache
+D:\Trening C#\Repos\Math-Class\Math-Class\obj\Debug\Math-Class.exe
+D:\Trening C#\Repos\Math-Class\Math-Class\obj\Debug\Math-Class.pdb
